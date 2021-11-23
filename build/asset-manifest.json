@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Avani2592/work-orders/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Avani2592/work-orders/static/js/main.82ffee38.chunk.js",
+    "main.js.map": "/Avani2592/work-orders/static/js/main.82ffee38.chunk.js.map",
+    "runtime-main.js": "/Avani2592/work-orders/static/js/runtime-main.a3cbeb86.js",
+    "runtime-main.js.map": "/Avani2592/work-orders/static/js/runtime-main.a3cbeb86.js.map",
+    "static/js/2.11d8179f.chunk.js": "/Avani2592/work-orders/static/js/2.11d8179f.chunk.js",
+    "static/js/2.11d8179f.chunk.js.map": "/Avani2592/work-orders/static/js/2.11d8179f.chunk.js.map",
+    "static/js/3.1ef281d8.chunk.js": "/Avani2592/work-orders/static/js/3.1ef281d8.chunk.js",
+    "static/js/3.1ef281d8.chunk.js.map": "/Avani2592/work-orders/static/js/3.1ef281d8.chunk.js.map",
+    "index.html": "/Avani2592/work-orders/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Avani2592/work-orders/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.11d8179f.chunk.js.LICENSE.txt": "/Avani2592/work-orders/static/js/2.11d8179f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3cbeb86.js",
+    "static/js/2.11d8179f.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.82ffee38.chunk.js"
+  ]
+}
